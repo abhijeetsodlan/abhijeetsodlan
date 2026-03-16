@@ -1,4 +1,4 @@
-# Hi, I'm Abhijeet Sodlan 👋
+# Hi, I'm Abhijeet 👋
 
 Web and Mobile Application Developer
 
